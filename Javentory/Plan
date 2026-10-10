@@ -1,9 +1,0 @@
-This will be an app to keep track of kitchen inventory.
-Kitchen items have a barcode, which will be used as the primary key.
-With this barcode we will create a hashmap that maps the barcode to the item's name, the quantity stored and so on.
-This is the basic storage
-
-
-Eventually, we will be able to scan this barcode using a camera
-We will have a list of preset meals to recommend depending on what is available
-Users in the same house will have a synced inventory system so when one user does the shopping it's saved for all users.
